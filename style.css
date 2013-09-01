@@ -1,0 +1,10 @@
+QLabel {
+font-family: "微软雅黑", "Trebuchet MS", Helvetica, SimSun, sans-serif;
+font-size: 16px;
+color : white;
+background-color : rgb(20,20,20);
+}
+
+QLabel:hover {
+  background-color : rgb(40,40,40);
+}
